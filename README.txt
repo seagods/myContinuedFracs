@@ -1,1 +1,2 @@
-
+This is just to test a fraction class based on gmp, not much use yet...
+I want to develop it into a continued fractions library
