@@ -1,19 +1,21 @@
 #  -g  option gives debug infor for gdb andddd
 #  -w  suppress all warnings
 
-g++ -g -w -o test1 test1.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o test2 test2.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o test3 test3.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o test4 test4.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o test5 test5.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o test6 test6.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o RANtest1 RANtest1.cpp -lgmpxx -lgmp -lranlib -lrefblas -llinpack -lgfortran
-g++ -g -w -o RANtest2 RANtest2.cpp -lgmpxx -lgmp -lranlib -lrefblas -llinpack -lgfortran
-g++ -g -w -o RANtest3 RANtest3.cpp -lgmpxx -lgmp -lranlib -lrefblas -llinpack -lgfortran
-g++ -g -w -o RANtest4 RANtest4.cpp -lgmpxx -lgmp -lranlib -lrefblas -llinpack -lgfortran
-g++ -g -w -o test7 test7.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o test8 test8.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o test9 test9.cpp -lgmpxx -lgmp -lgfortran
-g++ -g -w -o test10 test10.cpp -lgmpxx -lgmp -lgfortran
+g++ -o Kettern1 Kettern1.cpp -lgmpxx -lgmp 
+
+#g++ -g -w -o test1 test1.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o test2 test2.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o test3 test3.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o test4 test4.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o test5 test5.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o test6 test6.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o RANtest1 RANtest1.cpp -lgmpxx -lgmp -lranlib -lrefblas -llinpack -lgfortran
+#g++ -g -w -o RANtest2 RANtest2.cpp -lgmpxx -lgmp -lranlib -lrefblas -llinpack -lgfortran
+#g++ -g -w -o RANtest3 RANtest3.cpp -lgmpxx -lgmp -lranlib -lrefblas -llinpack -lgfortran
+#g++ -g -w -o RANtest4 RANtest4.cpp -lgmpxx -lgmp -lranlib -lrefblas -llinpack -lgfortran
+#g++ -g -w -o test7 test7.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o test8 test8.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o test9 test9.cpp -lgmpxx -lgmp -lgfortran
+#g++ -g -w -o test10 test10.cpp -lgmpxx -lgmp -lgfortran
 
 
