@@ -1,0 +1,3802 @@
+a and b vecs 0
+a and b vecs 1
+a and b vecs 2
+a and b vecs 3
+a and b vecs 4
+a and b vecs 5
+a and b vecs 6
+a and b vecs 7
+a and b vecs 8
+a and b vecs 9
+a and b vecs 10
+a and b vecs 11
+a and b vecs 12
+a and b vecs 13
+a and b vecs 14
+a and b vecs 15
+a and b vecs 16
+a and b vecs 17
+a and b vecs 18
+a and b vecs 19
+a and b vecs 20
+a and b vecs 21
+a and b vecs 22
+a and b vecs 23
+a and b vecs 24
+a and b vecs 25
+a and b vecs 26
+a and b vecs 27
+a and b vecs 28
+a and b vecs 29
+a and b vecs 30
+a and b vecs 31
+a and b vecs 32
+a and b vecs 33
+a and b vecs 34
+a and b vecs 35
+a and b vecs 36
+a and b vecs 37
+a and b vecs 38
+a and b vecs 39
+a and b vecs 40
+a and b vecs 41
+a and b vecs 42
+a and b vecs 43
+a and b vecs 44
+a and b vecs 45
+a and b vecs 46
+a and b vecs 47
+a and b vecs 48
+a and b vecs 49
+a and b vecs 50
+a and b vecs 51
+a and b vecs 52
+a and b vecs 53
+a and b vecs 54
+a and b vecs 55
+a and b vecs 56
+a and b vecs 57
+a and b vecs 58
+a and b vecs 59
+a and b vecs 60
+a and b vecs 61
+a and b vecs 62
+a and b vecs 63
+a and b vecs 64
+a and b vecs 65
+a and b vecs 66
+a and b vecs 67
+a and b vecs 68
+a and b vecs 69
+a and b vecs 70
+a and b vecs 71
+a and b vecs 72
+a and b vecs 73
+a and b vecs 74
+a and b vecs 75
+a and b vecs 76
+a and b vecs 77
+a and b vecs 78
+a and b vecs 79
+a and b vecs 80
+a and b vecs 81
+a and b vecs 82
+a and b vecs 83
+a and b vecs 84
+a and b vecs 85
+a and b vecs 86
+a and b vecs 87
+a and b vecs 88
+a and b vecs 89
+a and b vecs 90
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing from a+b/c
+aval=2
+bval=1
+cval=2
+fraction before canonicalize=2 + 1/2
+fraction=2 + 1/2
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+Constructing default GMPfrac
+this whole and whole are 0x7404b0  and  0x7404b0
+this proper and proper are 0x7404c8  and  0x7404c8
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=5
+fraction before canonicalize=0 + 1/5
+fraction=0 + 1/5
+Constructing from B/c 
+Bval=2
+cval=1
+fraction before canonicalize=2 + 0
+fraction=2 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   2/5
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebd8  and  0x74ebd8
+this proper and proper are 0x74e300  and  0x74e300
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x7404e8  and  0x7404e8
+this proper and proper are 0x740500  and  0x740500
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=12
+fraction before canonicalize=0 + 1/12
+fraction=0 + 1/12
+Constructing from B/c 
+Bval=5
+cval=1
+fraction before canonicalize=5 + 0
+fraction=5 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   5/12
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x740520  and  0x740520
+this proper and proper are 0x740538  and  0x740538
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=29
+fraction before canonicalize=0 + 1/29
+fraction=0 + 1/29
+Constructing from B/c 
+Bval=12
+cval=1
+fraction before canonicalize=12 + 0
+fraction=12 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   12/29
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x740558  and  0x740558
+this proper and proper are 0x740570  and  0x740570
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=70
+fraction before canonicalize=0 + 1/70
+fraction=0 + 1/70
+Constructing from B/c 
+Bval=29
+cval=1
+fraction before canonicalize=29 + 0
+fraction=29 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   29/70
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebf0  and  0x74ebf0
+this proper and proper are 0x74e2e0  and  0x74e2e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x740590  and  0x740590
+this proper and proper are 0x74c9a8  and  0x74c9a8
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=169
+fraction before canonicalize=0 + 1/169
+fraction=0 + 1/169
+Constructing from B/c 
+Bval=70
+cval=1
+fraction before canonicalize=70 + 0
+fraction=70 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   70/169
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9f8  and  0x74e9f8
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74c9c8  and  0x74c9c8
+this proper and proper are 0x74c9e0  and  0x74c9e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=408
+fraction before canonicalize=0 + 1/408
+fraction=0 + 1/408
+Constructing from B/c 
+Bval=169
+cval=1
+fraction before canonicalize=169 + 0
+fraction=169 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   169/408
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e2a0  and  0x74e2a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ca00  and  0x74ca00
+this proper and proper are 0x74ca18  and  0x74ca18
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=985
+fraction before canonicalize=0 + 1/985
+fraction=0 + 1/985
+Constructing from B/c 
+Bval=408
+cval=1
+fraction before canonicalize=408 + 0
+fraction=408 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   408/985
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e140  and  0x74e140
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ca38  and  0x74ca38
+this proper and proper are 0x74ca50  and  0x74ca50
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=2378
+fraction before canonicalize=0 + 1/2378
+fraction=0 + 1/2378
+Constructing from B/c 
+Bval=985
+cval=1
+fraction before canonicalize=985 + 0
+fraction=985 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   985/2378
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ca70  and  0x74ca70
+this proper and proper are 0x74ca88  and  0x74ca88
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=5741
+fraction before canonicalize=0 + 1/5741
+fraction=0 + 1/5741
+Constructing from B/c 
+Bval=2378
+cval=1
+fraction before canonicalize=2378 + 0
+fraction=2378 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   2378/5741
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cb00  and  0x74cb00
+this proper and proper are 0x74ccb0  and  0x74ccb0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=13860
+fraction before canonicalize=0 + 1/13860
+fraction=0 + 1/13860
+Constructing from B/c 
+Bval=5741
+cval=1
+fraction before canonicalize=5741 + 0
+fraction=5741 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   5741/13860
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cad0  and  0x74cad0
+this proper and proper are 0x74d0d8  and  0x74d0d8
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=33461
+fraction before canonicalize=0 + 1/33461
+fraction=0 + 1/33461
+Constructing from B/c 
+Bval=13860
+cval=1
+fraction before canonicalize=13860 + 0
+fraction=13860 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   13860/33461
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cc80  and  0x74cc80
+this proper and proper are 0x74d300  and  0x74d300
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=80782
+fraction before canonicalize=0 + 1/80782
+fraction=0 + 1/80782
+Constructing from B/c 
+Bval=33461
+cval=1
+fraction before canonicalize=33461 + 0
+fraction=33461 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   33461/80782
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ea10  and  0x74ea10
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cb90  and  0x74cb90
+this proper and proper are 0x74d3c0  and  0x74d3c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=195025
+fraction before canonicalize=0 + 1/195025
+fraction=0 + 1/195025
+Constructing from B/c 
+Bval=80782
+cval=1
+fraction before canonicalize=80782 + 0
+fraction=80782 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   80782/195025
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cc98  and  0x74cc98
+this proper and proper are 0x74d400  and  0x74d400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=470832
+fraction before canonicalize=0 + 1/470832
+fraction=0 + 1/470832
+Constructing from B/c 
+Bval=195025
+cval=1
+fraction before canonicalize=195025 + 0
+fraction=195025 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   195025/470832
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e2e0  and  0x74e2e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cbc0  and  0x74cbc0
+this proper and proper are 0x74d3a0  and  0x74d3a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=1136689
+fraction before canonicalize=0 + 1/1136689
+fraction=0 + 1/1136689
+Constructing from B/c 
+Bval=470832
+cval=1
+fraction before canonicalize=470832 + 0
+fraction=470832 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   470832/1136689
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cc50  and  0x74cc50
+this proper and proper are 0x74d3e0  and  0x74d3e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=2744210
+fraction before canonicalize=0 + 1/2744210
+fraction=0 + 1/2744210
+Constructing from B/c 
+Bval=1136689
+cval=1
+fraction before canonicalize=1136689 + 0
+fraction=1136689 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   1136689/2744210
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9f8  and  0x74e9f8
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cc38  and  0x74cc38
+this proper and proper are 0x74d240  and  0x74d240
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=6625109
+fraction before canonicalize=0 + 1/6625109
+fraction=0 + 1/6625109
+Constructing from B/c 
+Bval=2744210
+cval=1
+fraction before canonicalize=2744210 + 0
+fraction=2744210 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   2744210/6625109
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e360  and  0x74e360
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cc68  and  0x74cc68
+this proper and proper are 0x74d220  and  0x74d220
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=15994428
+fraction before canonicalize=0 + 1/15994428
+fraction=0 + 1/15994428
+Constructing from B/c 
+Bval=6625109
+cval=1
+fraction before canonicalize=6625109 + 0
+fraction=6625109 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   6625109/15994428
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebf0  and  0x74ebf0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cb18  and  0x74cb18
+this proper and proper are 0x74d140  and  0x74d140
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=38613965
+fraction before canonicalize=0 + 1/38613965
+fraction=0 + 1/38613965
+Constructing from B/c 
+Bval=15994428
+cval=1
+fraction before canonicalize=15994428 + 0
+fraction=15994428 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   15994428/38613965
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec38  and  0x74ec38
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cae8  and  0x74cae8
+this proper and proper are 0x74d1a0  and  0x74d1a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=93222358
+fraction before canonicalize=0 + 1/93222358
+fraction=0 + 1/93222358
+Constructing from B/c 
+Bval=38613965
+cval=1
+fraction before canonicalize=38613965 + 0
+fraction=38613965 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   38613965/93222358
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9b0  and  0x74e9b0
+this proper and proper are 0x74e2a0  and  0x74e2a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cc08  and  0x74cc08
+this proper and proper are 0x74d280  and  0x74d280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=225058681
+fraction before canonicalize=0 + 1/225058681
+fraction=0 + 1/225058681
+Constructing from B/c 
+Bval=93222358
+cval=1
+fraction before canonicalize=93222358 + 0
+fraction=93222358 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   93222358/225058681
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebf0  and  0x74ebf0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cb60  and  0x74cb60
+this proper and proper are 0x74d1e0  and  0x74d1e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=543339720
+fraction before canonicalize=0 + 1/543339720
+fraction=0 + 1/543339720
+Constructing from B/c 
+Bval=225058681
+cval=1
+fraction before canonicalize=225058681 + 0
+fraction=225058681 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   225058681/543339720
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e2a0  and  0x74e2a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cb30  and  0x74cb30
+this proper and proper are 0x74d480  and  0x74d480
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=1311738121
+fraction before canonicalize=0 + 1/1311738121
+fraction=0 + 1/1311738121
+Constructing from B/c 
+Bval=543339720
+cval=1
+fraction before canonicalize=543339720 + 0
+fraction=543339720 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   543339720/1311738121
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec38  and  0x74ec38
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cb48  and  0x74cb48
+this proper and proper are 0x74d4c0  and  0x74d4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=3166815962
+fraction before canonicalize=0 + 1/3166815962
+fraction=0 + 1/3166815962
+Constructing from B/c 
+Bval=1311738121
+cval=1
+fraction before canonicalize=1311738121 + 0
+fraction=1311738121 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   1311738121/3166815962
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e2c0  and  0x74e2c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 1 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cb78  and  0x74cb78
+this proper and proper are 0x74d380  and  0x74d380
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=7645370045
+fraction before canonicalize=0 + 1/7645370045
+fraction=0 + 1/7645370045
+Constructing from B/c 
+Bval=3166815962
+cval=1
+fraction before canonicalize=3166815962 + 0
+fraction=3166815962 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   3166815962/7645370045
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cba8  and  0x74cba8
+this proper and proper are 0x74d420  and  0x74d420
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=18457556052
+fraction before canonicalize=0 + 1/18457556052
+fraction=0 + 1/18457556052
+Constructing from B/c 
+Bval=7645370045
+cval=1
+fraction before canonicalize=7645370045 + 0
+fraction=7645370045 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   7645370045/18457556052
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebd8  and  0x74ebd8
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cbd8  and  0x74cbd8
+this proper and proper are 0x74d320  and  0x74d320
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=44560482149
+fraction before canonicalize=0 + 1/44560482149
+fraction=0 + 1/44560482149
+Constructing from B/c 
+Bval=18457556052
+cval=1
+fraction before canonicalize=18457556052 + 0
+fraction=18457556052 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   18457556052/44560482149
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cbf0  and  0x74cbf0
+this proper and proper are 0x74d440  and  0x74d440
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=107578520350
+fraction before canonicalize=0 + 1/107578520350
+fraction=0 + 1/107578520350
+Constructing from B/c 
+Bval=44560482149
+cval=1
+fraction before canonicalize=44560482149 + 0
+fraction=44560482149 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   44560482149/107578520350
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9f8  and  0x74e9f8
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74cc20  and  0x74cc20
+this proper and proper are 0x74d2e0  and  0x74d2e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=259717522849
+fraction before canonicalize=0 + 1/259717522849
+fraction=0 + 1/259717522849
+Constructing from B/c 
+Bval=107578520350
+cval=1
+fraction before canonicalize=107578520350 + 0
+fraction=107578520350 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   107578520350/259717522849
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec38  and  0x74ec38
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d890  and  0x74d890
+this proper and proper are 0x74d340  and  0x74d340
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=627013566048
+fraction before canonicalize=0 + 1/627013566048
+fraction=0 + 1/627013566048
+Constructing from B/c 
+Bval=259717522849
+cval=1
+fraction before canonicalize=259717522849 + 0
+fraction=259717522849 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   259717522849/627013566048
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec38  and  0x74ec38
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d878  and  0x74d878
+this proper and proper are 0x74d1c0  and  0x74d1c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=1513744654945
+fraction before canonicalize=0 + 1/1513744654945
+fraction=0 + 1/1513744654945
+Constructing from B/c 
+Bval=627013566048
+cval=1
+fraction before canonicalize=627013566048 + 0
+fraction=627013566048 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   627013566048/1513744654945
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9b0  and  0x74e9b0
+this proper and proper are 0x74e4e0  and  0x74e4e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d8c0  and  0x74d8c0
+this proper and proper are 0x74d460  and  0x74d460
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=3654502875938
+fraction before canonicalize=0 + 1/3654502875938
+fraction=0 + 1/3654502875938
+Constructing from B/c 
+Bval=1513744654945
+cval=1
+fraction before canonicalize=1513744654945 + 0
+fraction=1513744654945 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   1513744654945/3654502875938
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9b0  and  0x74e9b0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d8d8  and  0x74d8d8
+this proper and proper are 0x74d180  and  0x74d180
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=8822750406821
+fraction before canonicalize=0 + 1/8822750406821
+fraction=0 + 1/8822750406821
+Constructing from B/c 
+Bval=3654502875938
+cval=1
+fraction before canonicalize=3654502875938 + 0
+fraction=3654502875938 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   3654502875938/8822750406821
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e2c0  and  0x74e2c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d848  and  0x74d848
+this proper and proper are 0x74d4a0  and  0x74d4a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=21300003689580
+fraction before canonicalize=0 + 1/21300003689580
+fraction=0 + 1/21300003689580
+Constructing from B/c 
+Bval=8822750406821
+cval=1
+fraction before canonicalize=8822750406821 + 0
+fraction=8822750406821 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   8822750406821/21300003689580
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebd8  and  0x74ebd8
+this proper and proper are 0x74e300  and  0x74e300
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d860  and  0x74d860
+this proper and proper are 0x74d200  and  0x74d200
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=51422757785981
+fraction before canonicalize=0 + 1/51422757785981
+fraction=0 + 1/51422757785981
+Constructing from B/c 
+Bval=21300003689580
+cval=1
+fraction before canonicalize=21300003689580 + 0
+fraction=21300003689580 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   21300003689580/51422757785981
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d8f0  and  0x74d8f0
+this proper and proper are 0x74d360  and  0x74d360
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=124145519261542
+fraction before canonicalize=0 + 1/124145519261542
+fraction=0 + 1/124145519261542
+Constructing from B/c 
+Bval=51422757785981
+cval=1
+fraction before canonicalize=51422757785981 + 0
+fraction=51422757785981 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   51422757785981/124145519261542
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d830  and  0x74d830
+this proper and proper are 0x74d260  and  0x74d260
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=299713796309065
+fraction before canonicalize=0 + 1/299713796309065
+fraction=0 + 1/299713796309065
+Constructing from B/c 
+Bval=124145519261542
+cval=1
+fraction before canonicalize=124145519261542 + 0
+fraction=124145519261542 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   124145519261542/299713796309065
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec38  and  0x74ec38
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d8a8  and  0x74d8a8
+this proper and proper are 0x74d2a0  and  0x74d2a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=723573111879672
+fraction before canonicalize=0 + 1/723573111879672
+fraction=0 + 1/723573111879672
+Constructing from B/c 
+Bval=299713796309065
+cval=1
+fraction before canonicalize=299713796309065 + 0
+fraction=299713796309065 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   299713796309065/723573111879672
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec38  and  0x74ec38
+this proper and proper are 0x74e300  and  0x74e300
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d6e0  and  0x74d6e0
+this proper and proper are 0x74d4e0  and  0x74d4e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=1746860020068409
+fraction before canonicalize=0 + 1/1746860020068409
+fraction=0 + 1/1746860020068409
+Constructing from B/c 
+Bval=723573111879672
+cval=1
+fraction before canonicalize=723573111879672 + 0
+fraction=723573111879672 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   723573111879672/1746860020068409
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9b0  and  0x74e9b0
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d710  and  0x74d710
+this proper and proper are 0x74d120  and  0x74d120
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=4217293152016490
+fraction before canonicalize=0 + 1/4217293152016490
+fraction=0 + 1/4217293152016490
+Constructing from B/c 
+Bval=1746860020068409
+cval=1
+fraction before canonicalize=1746860020068409 + 0
+fraction=1746860020068409 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   1746860020068409/4217293152016490
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9b0  and  0x74e9b0
+this proper and proper are 0x74e160  and  0x74e160
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d788  and  0x74d788
+this proper and proper are 0x74d160  and  0x74d160
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=10181446324101389
+fraction before canonicalize=0 + 1/10181446324101389
+fraction=0 + 1/10181446324101389
+Constructing from B/c 
+Bval=4217293152016490
+cval=1
+fraction before canonicalize=4217293152016490 + 0
+fraction=4217293152016490 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   4217293152016490/10181446324101389
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ea10  and  0x74ea10
+this proper and proper are 0x74e4e0  and  0x74e4e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d638  and  0x74d638
+this proper and proper are 0x74d2c0  and  0x74d2c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=24580185800219268
+fraction before canonicalize=0 + 1/24580185800219268
+fraction=0 + 1/24580185800219268
+Constructing from B/c 
+Bval=10181446324101389
+cval=1
+fraction before canonicalize=10181446324101389 + 0
+fraction=10181446324101389 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   10181446324101389/24580185800219268
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e140  and  0x74e140
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d758  and  0x74d758
+this proper and proper are 0x74e0a0  and  0x74e0a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=59341817924539925
+fraction before canonicalize=0 + 1/59341817924539925
+fraction=0 + 1/59341817924539925
+Constructing from B/c 
+Bval=24580185800219268
+cval=1
+fraction before canonicalize=24580185800219268 + 0
+fraction=24580185800219268 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   24580185800219268/59341817924539925
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e360  and  0x74e360
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d6b0  and  0x74d6b0
+this proper and proper are 0x74dd40  and  0x74dd40
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=143263821649299118
+fraction before canonicalize=0 + 1/143263821649299118
+fraction=0 + 1/143263821649299118
+Constructing from B/c 
+Bval=59341817924539925
+cval=1
+fraction before canonicalize=59341817924539925 + 0
+fraction=59341817924539925 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   59341817924539925/143263821649299118
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e2a0  and  0x74e2a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d6c8  and  0x74d6c8
+this proper and proper are 0x74df60  and  0x74df60
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=345869461223138161
+fraction before canonicalize=0 + 1/345869461223138161
+fraction=0 + 1/345869461223138161
+Constructing from B/c 
+Bval=143263821649299118
+cval=1
+fraction before canonicalize=143263821649299118 + 0
+fraction=143263821649299118 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   143263821649299118/345869461223138161
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e300  and  0x74e300
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d5a8  and  0x74d5a8
+this proper and proper are 0x74e060  and  0x74e060
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=835002744095575440
+fraction before canonicalize=0 + 1/835002744095575440
+fraction=0 + 1/835002744095575440
+Constructing from B/c 
+Bval=345869461223138161
+cval=1
+fraction before canonicalize=345869461223138161 + 0
+fraction=345869461223138161 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   345869461223138161/835002744095575440
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9b0  and  0x74e9b0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d818  and  0x74d818
+this proper and proper are 0x74e040  and  0x74e040
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=2015874949414289041
+fraction before canonicalize=0 + 1/2015874949414289041
+fraction=0 + 1/2015874949414289041
+Constructing from B/c 
+Bval=835002744095575440
+cval=1
+fraction before canonicalize=835002744095575440 + 0
+fraction=835002744095575440 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   835002744095575440/2015874949414289041
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9b0  and  0x74e9b0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d590  and  0x74d590
+this proper and proper are 0x74dee0  and  0x74dee0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=4866752642924153522
+fraction before canonicalize=0 + 1/4866752642924153522
+fraction=0 + 1/4866752642924153522
+Constructing from B/c 
+Bval=2015874949414289041
+cval=1
+fraction before canonicalize=2015874949414289041 + 0
+fraction=2015874949414289041 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   2015874949414289041/4866752642924153522
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ebc0  and  0x74ebc0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d5c0  and  0x74d5c0
+this proper and proper are 0x74e0c0  and  0x74e0c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=11749380235262596085
+fraction before canonicalize=0 + 1/11749380235262596085
+fraction=0 + 1/11749380235262596085
+Constructing from B/c 
+Bval=4866752642924153522
+cval=1
+fraction before canonicalize=4866752642924153522 + 0
+fraction=4866752642924153522 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   4866752642924153522/11749380235262596085
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9b0  and  0x74e9b0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 2 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d7e8  and  0x74d7e8
+this proper and proper are 0x74e020  and  0x74e020
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=28365513113449345692
+fraction before canonicalize=0 + 1/28365513113449345692
+fraction=0 + 1/28365513113449345692
+Constructing from B/c 
+Bval=11749380235262596085
+cval=1
+fraction before canonicalize=11749380235262596085 + 0
+fraction=11749380235262596085 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   11749380235262596085/28365513113449345692
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eab8  and  0x74eab8
+this proper and proper are 0x74e300  and  0x74e300
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d530  and  0x74d530
+this proper and proper are 0x74dd60  and  0x74dd60
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=68480406462161287469
+fraction before canonicalize=0 + 1/68480406462161287469
+fraction=0 + 1/68480406462161287469
+Constructing from B/c 
+Bval=28365513113449345692
+cval=1
+fraction before canonicalize=28365513113449345692 + 0
+fraction=28365513113449345692 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   28365513113449345692/68480406462161287469
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec68  and  0x74ec68
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d740  and  0x74d740
+this proper and proper are 0x74dfc0  and  0x74dfc0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=165326326037771920630
+fraction before canonicalize=0 + 1/165326326037771920630
+fraction=0 + 1/165326326037771920630
+Constructing from B/c 
+Bval=68480406462161287469
+cval=1
+fraction before canonicalize=68480406462161287469 + 0
+fraction=68480406462161287469 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   68480406462161287469/165326326037771920630
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62750  and  0xe62750
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d560  and  0x74d560
+this proper and proper are 0x74df80  and  0x74df80
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=399133058537705128729
+fraction before canonicalize=0 + 1/399133058537705128729
+fraction=0 + 1/399133058537705128729
+Constructing from B/c 
+Bval=165326326037771920630
+cval=1
+fraction before canonicalize=165326326037771920630 + 0
+fraction=165326326037771920630 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   165326326037771920630/399133058537705128729
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe624e0  and  0xe624e0
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d548  and  0x74d548
+this proper and proper are 0x74df00  and  0x74df00
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=963592443113182178088
+fraction before canonicalize=0 + 1/963592443113182178088
+fraction=0 + 1/963592443113182178088
+Constructing from B/c 
+Bval=399133058537705128729
+cval=1
+fraction before canonicalize=399133058537705128729 + 0
+fraction=399133058537705128729 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   399133058537705128729/963592443113182178088
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62600  and  0xe62600
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d6f8  and  0x74d6f8
+this proper and proper are 0x74dec0  and  0x74dec0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=2326317944764069484905
+fraction before canonicalize=0 + 1/2326317944764069484905
+fraction=0 + 1/2326317944764069484905
+Constructing from B/c 
+Bval=963592443113182178088
+cval=1
+fraction before canonicalize=963592443113182178088 + 0
+fraction=963592443113182178088 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   963592443113182178088/2326317944764069484905
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62858  and  0xe62858
+this proper and proper are 0x74e360  and  0x74e360
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d728  and  0x74d728
+this proper and proper are 0x74e080  and  0x74e080
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=5616228332641321147898
+fraction before canonicalize=0 + 1/5616228332641321147898
+fraction=0 + 1/5616228332641321147898
+Constructing from B/c 
+Bval=2326317944764069484905
+cval=1
+fraction before canonicalize=2326317944764069484905 + 0
+fraction=2326317944764069484905 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   2326317944764069484905/5616228332641321147898
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec98  and  0x74ec98
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d578  and  0x74d578
+this proper and proper are 0x74dfa0  and  0x74dfa0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=13558774610046711780701
+fraction before canonicalize=0 + 1/13558774610046711780701
+fraction=0 + 1/13558774610046711780701
+Constructing from B/c 
+Bval=5616228332641321147898
+cval=1
+fraction before canonicalize=5616228332641321147898 + 0
+fraction=5616228332641321147898 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   5616228332641321147898/13558774610046711780701
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62750  and  0xe62750
+this proper and proper are 0x74e300  and  0x74e300
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d5d8  and  0x74d5d8
+this proper and proper are 0x74dea0  and  0x74dea0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=32733777552734744709300
+fraction before canonicalize=0 + 1/32733777552734744709300
+fraction=0 + 1/32733777552734744709300
+Constructing from B/c 
+Bval=13558774610046711780701
+cval=1
+fraction before canonicalize=13558774610046711780701 + 0
+fraction=13558774610046711780701 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   13558774610046711780701/32733777552734744709300
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62600  and  0xe62600
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d5f0  and  0x74d5f0
+this proper and proper are 0x74dfe0  and  0x74dfe0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=79026329715516201199301
+fraction before canonicalize=0 + 1/79026329715516201199301
+fraction=0 + 1/79026329715516201199301
+Constructing from B/c 
+Bval=32733777552734744709300
+cval=1
+fraction before canonicalize=32733777552734744709300 + 0
+fraction=32733777552734744709300 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   32733777552734744709300/79026329715516201199301
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62bd0  and  0xe62bd0
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d698  and  0x74d698
+this proper and proper are 0x74e000  and  0x74e000
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=190786436983767147107902
+fraction before canonicalize=0 + 1/190786436983767147107902
+fraction=0 + 1/190786436983767147107902
+Constructing from B/c 
+Bval=79026329715516201199301
+cval=1
+fraction before canonicalize=79026329715516201199301 + 0
+fraction=79026329715516201199301 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   79026329715516201199301/190786436983767147107902
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62a50  and  0xe62a50
+this proper and proper are 0x74e140  and  0x74e140
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d770  and  0x74d770
+this proper and proper are 0x74e0e0  and  0x74e0e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=460599203683050495415105
+fraction before canonicalize=0 + 1/460599203683050495415105
+fraction=0 + 1/460599203683050495415105
+Constructing from B/c 
+Bval=190786436983767147107902
+cval=1
+fraction before canonicalize=190786436983767147107902 + 0
+fraction=190786436983767147107902 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   190786436983767147107902/460599203683050495415105
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62b40  and  0xe62b40
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d608  and  0x74d608
+this proper and proper are 0x74e100  and  0x74e100
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=1111984844349868137938112
+fraction before canonicalize=0 + 1/1111984844349868137938112
+fraction=0 + 1/1111984844349868137938112
+Constructing from B/c 
+Bval=460599203683050495415105
+cval=1
+fraction before canonicalize=460599203683050495415105 + 0
+fraction=460599203683050495415105 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   460599203683050495415105/1111984844349868137938112
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62c48  and  0xe62c48
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d7b8  and  0x74d7b8
+this proper and proper are 0x74df20  and  0x74df20
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=2684568892382786771291329
+fraction before canonicalize=0 + 1/2684568892382786771291329
+fraction=0 + 1/2684568892382786771291329
+Constructing from B/c 
+Bval=1111984844349868137938112
+cval=1
+fraction before canonicalize=1111984844349868137938112 + 0
+fraction=1111984844349868137938112 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   1111984844349868137938112/2684568892382786771291329
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62900  and  0xe62900
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d7a0  and  0x74d7a0
+this proper and proper are 0x74e120  and  0x74e120
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=6481122629115441680520770
+fraction before canonicalize=0 + 1/6481122629115441680520770
+fraction=0 + 1/6481122629115441680520770
+Constructing from B/c 
+Bval=2684568892382786771291329
+cval=1
+fraction before canonicalize=2684568892382786771291329 + 0
+fraction=2684568892382786771291329 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   2684568892382786771291329/6481122629115441680520770
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62510  and  0xe62510
+this proper and proper are 0x74e4c0  and  0x74e4c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d7d0  and  0x74d7d0
+this proper and proper are 0x74df40  and  0x74df40
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=15646814150613670132332869
+fraction before canonicalize=0 + 1/15646814150613670132332869
+fraction=0 + 1/15646814150613670132332869
+Constructing from B/c 
+Bval=6481122629115441680520770
+cval=1
+fraction before canonicalize=6481122629115441680520770 + 0
+fraction=6481122629115441680520770 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   6481122629115441680520770/15646814150613670132332869
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62bb8  and  0xe62bb8
+this proper and proper are 0x74e320  and  0x74e320
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d800  and  0x74d800
+this proper and proper are 0x74dde0  and  0x74dde0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=37774750930342781945186508
+fraction before canonicalize=0 + 1/37774750930342781945186508
+fraction=0 + 1/37774750930342781945186508
+Constructing from B/c 
+Bval=15646814150613670132332869
+cval=1
+fraction before canonicalize=15646814150613670132332869 + 0
+fraction=15646814150613670132332869 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   15646814150613670132332869/37774750930342781945186508
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62c60  and  0xe62c60
+this proper and proper are 0x74e160  and  0x74e160
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d620  and  0x74d620
+this proper and proper are 0x74dd80  and  0x74dd80
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=91196316011299234022705885
+fraction before canonicalize=0 + 1/91196316011299234022705885
+fraction=0 + 1/91196316011299234022705885
+Constructing from B/c 
+Bval=37774750930342781945186508
+cval=1
+fraction before canonicalize=37774750930342781945186508 + 0
+fraction=37774750930342781945186508 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   37774750930342781945186508/91196316011299234022705885
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe629c0  and  0xe629c0
+this proper and proper are 0x74e140  and  0x74e140
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d650  and  0x74d650
+this proper and proper are 0x74dda0  and  0x74dda0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=220167382952941249990598278
+fraction before canonicalize=0 + 1/220167382952941249990598278
+fraction=0 + 1/220167382952941249990598278
+Constructing from B/c 
+Bval=91196316011299234022705885
+cval=1
+fraction before canonicalize=91196316011299234022705885 + 0
+fraction=91196316011299234022705885 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   91196316011299234022705885/220167382952941249990598278
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe63d00  and  0xe63d00
+this proper and proper are 0x74e2c0  and  0x74e2c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d668  and  0x74d668
+this proper and proper are 0x74ddc0  and  0x74ddc0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=531531081917181734003902441
+fraction before canonicalize=0 + 1/531531081917181734003902441
+fraction=0 + 1/531531081917181734003902441
+Constructing from B/c 
+Bval=220167382952941249990598278
+cval=1
+fraction before canonicalize=220167382952941249990598278 + 0
+fraction=220167382952941249990598278 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   220167382952941249990598278/531531081917181734003902441
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe63e08  and  0xe63e08
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74d680  and  0x74d680
+this proper and proper are 0x74de40  and  0x74de40
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=1283229546787304717998403160
+fraction before canonicalize=0 + 1/1283229546787304717998403160
+fraction=0 + 1/1283229546787304717998403160
+Constructing from B/c 
+Bval=531531081917181734003902441
+cval=1
+fraction before canonicalize=531531081917181734003902441 + 0
+fraction=531531081917181734003902441 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   531531081917181734003902441/1283229546787304717998403160
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe63e68  and  0xe63e68
+this proper and proper are 0x74e4e0  and  0x74e4e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eb00  and  0x74eb00
+this proper and proper are 0x74de00  and  0x74de00
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=3097990175491791170000708761
+fraction before canonicalize=0 + 1/3097990175491791170000708761
+fraction=0 + 1/3097990175491791170000708761
+Constructing from B/c 
+Bval=1283229546787304717998403160
+cval=1
+fraction before canonicalize=1283229546787304717998403160 + 0
+fraction=1283229546787304717998403160 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   1283229546787304717998403160/3097990175491791170000708761
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64060  and  0xe64060
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e950  and  0x74e950
+this proper and proper are 0x74de20  and  0x74de20
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=7479209897770887057999820682
+fraction before canonicalize=0 + 1/7479209897770887057999820682
+fraction=0 + 1/7479209897770887057999820682
+Constructing from B/c 
+Bval=3097990175491791170000708761
+cval=1
+fraction before canonicalize=3097990175491791170000708761 + 0
+fraction=3097990175491791170000708761 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   3097990175491791170000708761/7479209897770887057999820682
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe63d90  and  0xe63d90
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e980  and  0x74e980
+this proper and proper are 0x74de60  and  0x74de60
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=18056409971033565286000350125
+fraction before canonicalize=0 + 1/18056409971033565286000350125
+fraction=0 + 1/18056409971033565286000350125
+Constructing from B/c 
+Bval=7479209897770887057999820682
+cval=1
+fraction before canonicalize=7479209897770887057999820682 + 0
+fraction=7479209897770887057999820682 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   7479209897770887057999820682/18056409971033565286000350125
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64078  and  0xe64078
+this proper and proper are 0x74e2a0  and  0x74e2a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eb18  and  0x74eb18
+this proper and proper are 0x74de80  and  0x74de80
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=43592029839838017630000520932
+fraction before canonicalize=0 + 1/43592029839838017630000520932
+fraction=0 + 1/43592029839838017630000520932
+Constructing from B/c 
+Bval=18056409971033565286000350125
+cval=1
+fraction before canonicalize=18056409971033565286000350125 + 0
+fraction=18056409971033565286000350125 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   18056409971033565286000350125/43592029839838017630000520932
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe63eb0  and  0xe63eb0
+this proper and proper are 0x74e140  and  0x74e140
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 3 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ea70  and  0x74ea70
+this proper and proper are 0x74e480  and  0x74e480
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=105240469650709600546001391989
+fraction before canonicalize=0 + 1/105240469650709600546001391989
+fraction=0 + 1/105240469650709600546001391989
+Constructing from B/c 
+Bval=43592029839838017630000520932
+cval=1
+fraction before canonicalize=43592029839838017630000520932 + 0
+fraction=43592029839838017630000520932 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   43592029839838017630000520932/105240469650709600546001391989
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64030  and  0xe64030
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec20  and  0x74ec20
+this proper and proper are 0x74e4a0  and  0x74e4a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=254072969141257218722003304910
+fraction before canonicalize=0 + 1/254072969141257218722003304910
+fraction=0 + 1/254072969141257218722003304910
+Constructing from B/c 
+Bval=105240469650709600546001391989
+cval=1
+fraction before canonicalize=105240469650709600546001391989 + 0
+fraction=105240469650709600546001391989 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   105240469650709600546001391989/254072969141257218722003304910
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe640f0  and  0xe640f0
+this proper and proper are 0x74e320  and  0x74e320
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eb30  and  0x74eb30
+this proper and proper are 0x74e380  and  0x74e380
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=613386407933224037990008001809
+fraction before canonicalize=0 + 1/613386407933224037990008001809
+fraction=0 + 1/613386407933224037990008001809
+Constructing from B/c 
+Bval=254072969141257218722003304910
+cval=1
+fraction before canonicalize=254072969141257218722003304910 + 0
+fraction=254072969141257218722003304910 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   254072969141257218722003304910/613386407933224037990008001809
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64150  and  0xe64150
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eb48  and  0x74eb48
+this proper and proper are 0x74e180  and  0x74e180
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=1480845785007705294702019308528
+fraction before canonicalize=0 + 1/1480845785007705294702019308528
+fraction=0 + 1/1480845785007705294702019308528
+Constructing from B/c 
+Bval=613386407933224037990008001809
+cval=1
+fraction before canonicalize=613386407933224037990008001809 + 0
+fraction=613386407933224037990008001809 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   613386407933224037990008001809/1480845785007705294702019308528
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe641f8  and  0xe641f8
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ea28  and  0x74ea28
+this proper and proper are 0x74e420  and  0x74e420
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=3575077977948634627394046618865
+fraction before canonicalize=0 + 1/3575077977948634627394046618865
+fraction=0 + 1/3575077977948634627394046618865
+Constructing from B/c 
+Bval=1480845785007705294702019308528
+cval=1
+fraction before canonicalize=1480845785007705294702019308528 + 0
+fraction=1480845785007705294702019308528 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   1480845785007705294702019308528/3575077977948634627394046618865
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64330  and  0xe64330
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e968  and  0x74e968
+this proper and proper are 0x74e440  and  0x74e440
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=8631001740904974549490112546258
+fraction before canonicalize=0 + 1/8631001740904974549490112546258
+fraction=0 + 1/8631001740904974549490112546258
+Constructing from B/c 
+Bval=3575077977948634627394046618865
+cval=1
+fraction before canonicalize=3575077977948634627394046618865 + 0
+fraction=3575077977948634627394046618865 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   3575077977948634627394046618865/8631001740904974549490112546258
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64450  and  0xe64450
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ea88  and  0x74ea88
+this proper and proper are 0x74e220  and  0x74e220
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=20837081459758583726374271711381
+fraction before canonicalize=0 + 1/20837081459758583726374271711381
+fraction=0 + 1/20837081459758583726374271711381
+Constructing from B/c 
+Bval=8631001740904974549490112546258
+cval=1
+fraction before canonicalize=8631001740904974549490112546258 + 0
+fraction=8631001740904974549490112546258 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   8631001740904974549490112546258/20837081459758583726374271711381
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe641b0  and  0xe641b0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eaa0  and  0x74eaa0
+this proper and proper are 0x74e240  and  0x74e240
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=50305164660422142002238655969020
+fraction before canonicalize=0 + 1/50305164660422142002238655969020
+fraction=0 + 1/50305164660422142002238655969020
+Constructing from B/c 
+Bval=20837081459758583726374271711381
+cval=1
+fraction before canonicalize=20837081459758583726374271711381 + 0
+fraction=20837081459758583726374271711381 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   20837081459758583726374271711381/50305164660422142002238655969020
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe640d8  and  0xe640d8
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eb60  and  0x74eb60
+this proper and proper are 0x74e3c0  and  0x74e3c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=121447410780602867730851583649421
+fraction before canonicalize=0 + 1/121447410780602867730851583649421
+fraction=0 + 1/121447410780602867730851583649421
+Constructing from B/c 
+Bval=50305164660422142002238655969020
+cval=1
+fraction before canonicalize=50305164660422142002238655969020 + 0
+fraction=50305164660422142002238655969020 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   50305164660422142002238655969020/121447410780602867730851583649421
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62a08  and  0xe62a08
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ea58  and  0x74ea58
+this proper and proper are 0x74e1e0  and  0x74e1e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=293199986221627877463941823267862
+fraction before canonicalize=0 + 1/293199986221627877463941823267862
+fraction=0 + 1/293199986221627877463941823267862
+Constructing from B/c 
+Bval=121447410780602867730851583649421
+cval=1
+fraction before canonicalize=121447410780602867730851583649421 + 0
+fraction=121447410780602867730851583649421 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   121447410780602867730851583649421/293199986221627877463941823267862
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe62bb8  and  0xe62bb8
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eb78  and  0x74eb78
+this proper and proper are 0x74e460  and  0x74e460
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=707847383223858622658735230185145
+fraction before canonicalize=0 + 1/707847383223858622658735230185145
+fraction=0 + 1/707847383223858622658735230185145
+Constructing from B/c 
+Bval=293199986221627877463941823267862
+cval=1
+fraction before canonicalize=293199986221627877463941823267862 + 0
+fraction=293199986221627877463941823267862 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   293199986221627877463941823267862/707847383223858622658735230185145
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64780  and  0xe64780
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eb90  and  0x74eb90
+this proper and proper are 0x74e1a0  and  0x74e1a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=1708894752669345122781412283638152
+fraction before canonicalize=0 + 1/1708894752669345122781412283638152
+fraction=0 + 1/1708894752669345122781412283638152
+Constructing from B/c 
+Bval=707847383223858622658735230185145
+cval=1
+fraction before canonicalize=707847383223858622658735230185145 + 0
+fraction=707847383223858622658735230185145 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   707847383223858622658735230185145/1708894752669345122781412283638152
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe644e0  and  0xe644e0
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e9e0  and  0x74e9e0
+this proper and proper are 0x74e3a0  and  0x74e3a0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=4125636888562548868221559797461449
+fraction before canonicalize=0 + 1/4125636888562548868221559797461449
+fraction=0 + 1/4125636888562548868221559797461449
+Constructing from B/c 
+Bval=1708894752669345122781412283638152
+cval=1
+fraction before canonicalize=1708894752669345122781412283638152 + 0
+fraction=1708894752669345122781412283638152 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   1708894752669345122781412283638152/4125636888562548868221559797461449
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe645a0  and  0xe645a0
+this proper and proper are 0x74e400  and  0x74e400
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ea40  and  0x74ea40
+this proper and proper are 0x74e1c0  and  0x74e1c0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=9960168529794442859224531878561050
+fraction before canonicalize=0 + 1/9960168529794442859224531878561050
+fraction=0 + 1/9960168529794442859224531878561050
+Constructing from B/c 
+Bval=4125636888562548868221559797461449
+cval=1
+fraction before canonicalize=4125636888562548868221559797461449 + 0
+fraction=4125636888562548868221559797461449 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   4125636888562548868221559797461449/9960168529794442859224531878561050
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64558  and  0xe64558
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74ec08  and  0x74ec08
+this proper and proper are 0x74e3e0  and  0x74e3e0
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=24045973948151434586670623554583549
+fraction before canonicalize=0 + 1/24045973948151434586670623554583549
+fraction=0 + 1/24045973948151434586670623554583549
+Constructing from B/c 
+Bval=9960168529794442859224531878561050
+cval=1
+fraction before canonicalize=9960168529794442859224531878561050 + 0
+fraction=9960168529794442859224531878561050 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   9960168529794442859224531878561050/24045973948151434586670623554583549
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64828  and  0xe64828
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74e998  and  0x74e998
+this proper and proper are 0x74e200  and  0x74e200
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+Constructing default GMPfrac
+Constructing from B/c 
+Bval=1
+cval=58052116426097312032565778987728148
+fraction before canonicalize=0 + 1/58052116426097312032565778987728148
+fraction=0 + 1/58052116426097312032565778987728148
+Constructing from B/c 
+Bval=24045973948151434586670623554583549
+cval=1
+fraction before canonicalize=24045973948151434586670623554583549 + 0
+fraction=24045973948151434586670623554583549 + 0
+Constructing default GMPfrac
+Whole starts off as 0
+adders start as 0  0
+adders now 0  0
+result whole now 0
+add1 and add2 are 0   and   24045973948151434586670623554583549/58052116426097312032565778987728148
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0xe64768  and  0xe64768
+this proper and proper are 0x74e280  and  0x74e280
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+dee1 is 4 64 bit words (limbs) long
+
+destructor call for GMPfrac
+this whole and whole are 0x74eba8  and  0x74eba8
+this proper and proper are 0x74e260  and  0x74e260
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+For i=0
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1/2)
+**********************************************
+For i=1
+**********************************************
+Show() fraction GMPfrac=+  (2  +  2/5)
+**********************************************
+For i=2
+**********************************************
+Show() fraction GMPfrac=+  (2  +  5/12)
+**********************************************
+For i=3
+**********************************************
+Show() fraction GMPfrac=+  (2  +  12/29)
+**********************************************
+For i=4
+**********************************************
+Show() fraction GMPfrac=+  (2  +  29/70)
+**********************************************
+For i=5
+**********************************************
+Show() fraction GMPfrac=+  (2  +  70/169)
+**********************************************
+For i=6
+**********************************************
+Show() fraction GMPfrac=+  (2  +  169/408)
+**********************************************
+For i=7
+**********************************************
+Show() fraction GMPfrac=+  (2  +  408/985)
+**********************************************
+For i=8
+**********************************************
+Show() fraction GMPfrac=+  (2  +  985/2378)
+**********************************************
+For i=9
+**********************************************
+Show() fraction GMPfrac=+  (2  +  2378/5741)
+**********************************************
+For i=10
+**********************************************
+Show() fraction GMPfrac=+  (2  +  5741/13860)
+**********************************************
+For i=11
+**********************************************
+Show() fraction GMPfrac=+  (2  +  13860/33461)
+**********************************************
+For i=12
+**********************************************
+Show() fraction GMPfrac=+  (2  +  33461/80782)
+**********************************************
+For i=13
+**********************************************
+Show() fraction GMPfrac=+  (2  +  80782/195025)
+**********************************************
+For i=14
+**********************************************
+Show() fraction GMPfrac=+  (2  +  195025/470832)
+**********************************************
+For i=15
+**********************************************
+Show() fraction GMPfrac=+  (2  +  470832/1136689)
+**********************************************
+For i=16
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1136689/2744210)
+**********************************************
+For i=17
+**********************************************
+Show() fraction GMPfrac=+  (2  +  2744210/6625109)
+**********************************************
+For i=18
+**********************************************
+Show() fraction GMPfrac=+  (2  +  6625109/15994428)
+**********************************************
+For i=19
+**********************************************
+Show() fraction GMPfrac=+  (2  +  15994428/38613965)
+**********************************************
+For i=20
+**********************************************
+Show() fraction GMPfrac=+  (2  +  38613965/93222358)
+**********************************************
+For i=21
+**********************************************
+Show() fraction GMPfrac=+  (2  +  93222358/225058681)
+**********************************************
+For i=22
+**********************************************
+Show() fraction GMPfrac=+  (2  +  225058681/543339720)
+**********************************************
+For i=23
+**********************************************
+Show() fraction GMPfrac=+  (2  +  543339720/1311738121)
+**********************************************
+For i=24
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1311738121/3166815962)
+**********************************************
+For i=25
+**********************************************
+Show() fraction GMPfrac=+  (2  +  3166815962/7645370045)
+**********************************************
+For i=26
+**********************************************
+Show() fraction GMPfrac=+  (2  +  7645370045/18457556052)
+**********************************************
+For i=27
+**********************************************
+Show() fraction GMPfrac=+  (2  +  18457556052/44560482149)
+**********************************************
+For i=28
+**********************************************
+Show() fraction GMPfrac=+  (2  +  44560482149/107578520350)
+**********************************************
+For i=29
+**********************************************
+Show() fraction GMPfrac=+  (2  +  107578520350/259717522849)
+**********************************************
+For i=30
+**********************************************
+Show() fraction GMPfrac=+  (2  +  259717522849/627013566048)
+**********************************************
+For i=31
+**********************************************
+Show() fraction GMPfrac=+  (2  +  627013566048/1513744654945)
+**********************************************
+For i=32
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1513744654945/3654502875938)
+**********************************************
+For i=33
+**********************************************
+Show() fraction GMPfrac=+  (2  +  3654502875938/8822750406821)
+**********************************************
+For i=34
+**********************************************
+Show() fraction GMPfrac=+  (2  +  8822750406821/21300003689580)
+**********************************************
+For i=35
+**********************************************
+Show() fraction GMPfrac=+  (2  +  21300003689580/51422757785981)
+**********************************************
+For i=36
+**********************************************
+Show() fraction GMPfrac=+  (2  +  51422757785981/124145519261542)
+**********************************************
+For i=37
+**********************************************
+Show() fraction GMPfrac=+  (2  +  124145519261542/299713796309065)
+**********************************************
+For i=38
+**********************************************
+Show() fraction GMPfrac=+  (2  +  299713796309065/723573111879672)
+**********************************************
+For i=39
+**********************************************
+Show() fraction GMPfrac=+  (2  +  723573111879672/1746860020068409)
+**********************************************
+For i=40
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1746860020068409/4217293152016490)
+**********************************************
+For i=41
+**********************************************
+Show() fraction GMPfrac=+  (2  +  4217293152016490/10181446324101389)
+**********************************************
+For i=42
+**********************************************
+Show() fraction GMPfrac=+  (2  +  10181446324101389/24580185800219268)
+**********************************************
+For i=43
+**********************************************
+Show() fraction GMPfrac=+  (2  +  24580185800219268/59341817924539925)
+**********************************************
+For i=44
+**********************************************
+Show() fraction GMPfrac=+  (2  +  59341817924539925/143263821649299118)
+**********************************************
+For i=45
+**********************************************
+Show() fraction GMPfrac=+  (2  +  143263821649299118/345869461223138161)
+**********************************************
+For i=46
+**********************************************
+Show() fraction GMPfrac=+  (2  +  345869461223138161/835002744095575440)
+**********************************************
+For i=47
+**********************************************
+Show() fraction GMPfrac=+  (2  +  835002744095575440/2015874949414289041)
+**********************************************
+For i=48
+**********************************************
+Show() fraction GMPfrac=+  (2  +  2015874949414289041/4866752642924153522)
+**********************************************
+For i=49
+**********************************************
+Show() fraction GMPfrac=+  (2  +  4866752642924153522/11749380235262596085)
+**********************************************
+For i=50
+**********************************************
+Show() fraction GMPfrac=+  (2  +  11749380235262596085/28365513113449345692)
+**********************************************
+For i=51
+**********************************************
+Show() fraction GMPfrac=+  (2  +  28365513113449345692/68480406462161287469)
+**********************************************
+For i=52
+**********************************************
+Show() fraction GMPfrac=+  (2  +  68480406462161287469/165326326037771920630)
+**********************************************
+For i=53
+**********************************************
+Show() fraction GMPfrac=+  (2  +  165326326037771920630/399133058537705128729)
+**********************************************
+For i=54
+**********************************************
+Show() fraction GMPfrac=+  (2  +  399133058537705128729/963592443113182178088)
+**********************************************
+For i=55
+**********************************************
+Show() fraction GMPfrac=+  (2  +  963592443113182178088/2326317944764069484905)
+**********************************************
+For i=56
+**********************************************
+Show() fraction GMPfrac=+  (2  +  2326317944764069484905/5616228332641321147898)
+**********************************************
+For i=57
+**********************************************
+Show() fraction GMPfrac=+  (2  +  5616228332641321147898/13558774610046711780701)
+**********************************************
+For i=58
+**********************************************
+Show() fraction GMPfrac=+  (2  +  13558774610046711780701/32733777552734744709300)
+**********************************************
+For i=59
+**********************************************
+Show() fraction GMPfrac=+  (2  +  32733777552734744709300/79026329715516201199301)
+**********************************************
+For i=60
+**********************************************
+Show() fraction GMPfrac=+  (2  +  79026329715516201199301/190786436983767147107902)
+**********************************************
+For i=61
+**********************************************
+Show() fraction GMPfrac=+  (2  +  190786436983767147107902/460599203683050495415105)
+**********************************************
+For i=62
+**********************************************
+Show() fraction GMPfrac=+  (2  +  460599203683050495415105/1111984844349868137938112)
+**********************************************
+For i=63
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1111984844349868137938112/2684568892382786771291329)
+**********************************************
+For i=64
+**********************************************
+Show() fraction GMPfrac=+  (2  +  2684568892382786771291329/6481122629115441680520770)
+**********************************************
+For i=65
+**********************************************
+Show() fraction GMPfrac=+  (2  +  6481122629115441680520770/15646814150613670132332869)
+**********************************************
+For i=66
+**********************************************
+Show() fraction GMPfrac=+  (2  +  15646814150613670132332869/37774750930342781945186508)
+**********************************************
+For i=67
+**********************************************
+Show() fraction GMPfrac=+  (2  +  37774750930342781945186508/91196316011299234022705885)
+**********************************************
+For i=68
+**********************************************
+Show() fraction GMPfrac=+  (2  +  91196316011299234022705885/220167382952941249990598278)
+**********************************************
+For i=69
+**********************************************
+Show() fraction GMPfrac=+  (2  +  220167382952941249990598278/531531081917181734003902441)
+**********************************************
+For i=70
+**********************************************
+Show() fraction GMPfrac=+  (2  +  531531081917181734003902441/1283229546787304717998403160)
+**********************************************
+For i=71
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1283229546787304717998403160/3097990175491791170000708761)
+**********************************************
+For i=72
+**********************************************
+Show() fraction GMPfrac=+  (2  +  3097990175491791170000708761/7479209897770887057999820682)
+**********************************************
+For i=73
+**********************************************
+Show() fraction GMPfrac=+  (2  +  7479209897770887057999820682/18056409971033565286000350125)
+**********************************************
+For i=74
+**********************************************
+Show() fraction GMPfrac=+  (2  +  18056409971033565286000350125/43592029839838017630000520932)
+**********************************************
+For i=75
+**********************************************
+Show() fraction GMPfrac=+  (2  +  43592029839838017630000520932/105240469650709600546001391989)
+**********************************************
+For i=76
+**********************************************
+Show() fraction GMPfrac=+  (2  +  105240469650709600546001391989/254072969141257218722003304910)
+**********************************************
+For i=77
+**********************************************
+Show() fraction GMPfrac=+  (2  +  254072969141257218722003304910/613386407933224037990008001809)
+**********************************************
+For i=78
+**********************************************
+Show() fraction GMPfrac=+  (2  +  613386407933224037990008001809/1480845785007705294702019308528)
+**********************************************
+For i=79
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1480845785007705294702019308528/3575077977948634627394046618865)
+**********************************************
+For i=80
+**********************************************
+Show() fraction GMPfrac=+  (2  +  3575077977948634627394046618865/8631001740904974549490112546258)
+**********************************************
+For i=81
+**********************************************
+Show() fraction GMPfrac=+  (2  +  8631001740904974549490112546258/20837081459758583726374271711381)
+**********************************************
+For i=82
+**********************************************
+Show() fraction GMPfrac=+  (2  +  20837081459758583726374271711381/50305164660422142002238655969020)
+**********************************************
+For i=83
+**********************************************
+Show() fraction GMPfrac=+  (2  +  50305164660422142002238655969020/121447410780602867730851583649421)
+**********************************************
+For i=84
+**********************************************
+Show() fraction GMPfrac=+  (2  +  121447410780602867730851583649421/293199986221627877463941823267862)
+**********************************************
+For i=85
+**********************************************
+Show() fraction GMPfrac=+  (2  +  293199986221627877463941823267862/707847383223858622658735230185145)
+**********************************************
+For i=86
+**********************************************
+Show() fraction GMPfrac=+  (2  +  707847383223858622658735230185145/1708894752669345122781412283638152)
+**********************************************
+For i=87
+**********************************************
+Show() fraction GMPfrac=+  (2  +  1708894752669345122781412283638152/4125636888562548868221559797461449)
+**********************************************
+For i=88
+**********************************************
+Show() fraction GMPfrac=+  (2  +  4125636888562548868221559797461449/9960168529794442859224531878561050)
+**********************************************
+For i=89
+**********************************************
+Show() fraction GMPfrac=+  (2  +  9960168529794442859224531878561050/24045973948151434586670623554583549)
+**********************************************
+For i=90
+**********************************************
+Show() fraction GMPfrac=+  (1  +  24045973948151434586670623554583549/58052116426097312032565778987728148)
+**********************************************
+Sequence Ended
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
+destructor call for GMPfrac
