@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Cygwin) (preloaded format=latex 2019.11.27)  13 MAR 2020 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Cygwin) (preloaded format=latex 2019.11.27)  14 MAR 2020 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -112,11 +112,11 @@ s
 )
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 54.
+less on input line 51.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 55.
+less on input line 52.
 
 (/usr/share/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
@@ -132,33 +132,33 @@ LaTeX Warning: Unused global option(s):
 (./Ketternbruch.aux)
 \openout1 = `Ketternbruch.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Try loading font information for U+esint on input line 91.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Try loading font information for U+esint on input line 88.
  (/usr/share/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 91.
+LaTeX Font Info:    Try loading font information for U+msa on input line 88.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 91.
+LaTeX Font Info:    Try loading font information for U+msb on input line 88.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 91.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 88.
 
 (/usr/share/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -169,35 +169,22 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 [1
 
-] [2] [3] [4] [5] [6] [7]
-Overfull \hbox (26.56087pt too wide) detected at line 409
+] [2] [3] [4] [5] [6] [7] [8]
+Overfull \hbox (26.56087pt too wide) detected at line 415
 \OT1/cmr/m/n/10 [[\OML/cmm/m/it/10 A[]\OT1/cmr/m/n/10 ]] = \OML/cmm/m/it/10 b[]
 \OT1/cmr/m/n/10 [[\OML/cmm/m/it/10 A[]\OT1/cmr/m/n/10 ]] + \OML/cmm/m/it/10 a[]
 \OT1/cmr/m/n/10 [[\OML/cmm/m/it/10 A[]\OT1/cmr/m/n/10 ]] = \OML/cmm/m/it/10 b[]
 b[]b[]b[]b[] []
  []
 
-[8] [9]
-! Missing { inserted.
-<to be read again> 
-                   \mathinner 
-l.544 ...[B_n]]}{b_0 \times b_1 b_  \ldots b_n}  }
-                                                  ,
-? 
-! Missing } inserted.
-<inserted text> 
-                }
-l.545 $
-       $    $$
-? 
-[10] [11] (./Ketternbruch.aux) ) 
+[9] [10] [11] [12] [13] (./Ketternbruch.aux) ) 
 Here is how much of TeX's memory you used:
- 1412 strings out of 494561
- 15925 string characters out of 6177943
- 84249 words of memory out of 5000000
- 5081 multiletter control sequences out of 15000+600000
+ 1413 strings out of 494561
+ 15934 string characters out of 6177943
+ 86249 words of memory out of 5000000
+ 5082 multiletter control sequences out of 15000+600000
  13951 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 27i,12n,43p,236b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,12n,43p,236b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Ketternbruch.dvi (11 pages, 52980 bytes).
+Output written on Ketternbruch.dvi (13 pages, 66640 bytes).
