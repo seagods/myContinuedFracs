@@ -1,7 +1,8 @@
 #  -g  option gives debug infor for gdb andddd
 #  -w  suppress all warnings
 
-g++ -o Kettern1 Kettern1.cpp -lgmpxx -lgmp 
+#g++ -o Kettern1 Kettern1.cpp -lgmpxx -lgmp 
+g++ -o writeAB writeAB.cpp -lgmpxx -lgmp 
 
 #g++ -g -w -o test1 test1.cpp -lgmpxx -lgmp -lgfortran
 #g++ -g -w -o test2 test2.cpp -lgmpxx -lgmp -lgfortran
